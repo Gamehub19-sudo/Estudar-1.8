@@ -1,0 +1,1 @@
+Estuda+ 25.0 - Um arquivo HTML com todos os 118 PDFs incorporados. Renomeie estuda_mais_v25_tudo_em_um.html para index.html ou use o index.html do ZIP. Para GitHub Pages basta enviar index.html. Para instalação PWA completa são necessários também manifest e ícones.
